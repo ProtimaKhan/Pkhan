@@ -10,7 +10,7 @@
 <channel>
 	<title>protimakhan</title>
 	<atom:link href="https://protimakhan.github.io/feed/" rel="self" type="application/rss+xml" />
-	<link>https://protimakhan.github.io</link>
+	<link>https://protimakhan.github.io/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sat, 08 May 2021 01:04:58 +0000</lastBuildDate>
 	<language>en-US</language>
